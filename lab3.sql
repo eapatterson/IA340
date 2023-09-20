@@ -52,7 +52,6 @@ from enroll
 group by c_number
 order by num_student desc
 limit 1
-/* c1 most emrolled with 3 students
 
 --Q2.9
 select professor.p_name, course.c_name
